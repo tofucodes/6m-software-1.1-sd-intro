@@ -30,7 +30,7 @@ nth-child(6)
 5. What is the code you use to keep the blue box within the purple?
 ```
       .child {
-        border: mediumblue solid;
+        border: mediumblue 8px solid;
         margin: 0
 ```
 
